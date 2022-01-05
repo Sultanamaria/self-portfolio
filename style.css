@@ -4,6 +4,7 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .top-banner{
     background-image: url(images/top-banner.png);
@@ -40,4 +41,9 @@ h2{
 }
 a{
     padding-top: 50px;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
